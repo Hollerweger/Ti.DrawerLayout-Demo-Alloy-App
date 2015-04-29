@@ -1,4 +1,10 @@
-#Demo App for [Ti.DrawerLayout](https://github.com/manumaticx/Ti.DrawerLayout)
+#Forked from [Ti.DrawerLayout](https://github.com/manumaticx/Ti.DrawerLayout) added Material Theme and tinted action bar and status bar using theme attributes
+
+Titanium CLI and SDK in Version 4.0.X is needed!!
+
+As of writing there is no final 4.0.X released.
+Install Beta or RC like:
+npm install titanium@4.0.0-beta7
 
 This is a demo application for showing how to use [https://github.com/manumaticx/Ti.DrawerLayout](https://github.com/manumaticx/Ti.DrawerLayout)
 
